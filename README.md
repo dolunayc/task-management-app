@@ -1,8 +1,11 @@
-# EasyDone Task Management Application
+# EasyDone✓ Task Management Application
 
 ## Overview
 
-EasyDone is a simple task management application built with HTML, CSS, and JavaScript. It allows users to add new tasks, manage existing ones, and perform actions such as filtering and sorting—all without reloading the page.
+EasyDone✓ is a simple task management application built with HTML, CSS, and JavaScript. It allows users to add new tasks, manage existing ones, and perform actions such as filtering and sorting—all without reloading the page.
+
+## 🔗 Live Demo
+👉 **[Visit EasyDone✓ Task Management Application](https://dolunayc.github.io/task-management-app/)**  
 
 ## Features
 
@@ -30,8 +33,4 @@ EasyDone is a simple task management application built with HTML, CSS, and JavaS
   - Filter tasks to show only completed items.
   - Sort tasks by priority.
 
-## Installation
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/YourUsername/task-management-app.git
